@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
-process.stdout.write("Welcome to the Magic Eightball");
+function print(){
+  process.stdout.write("Welcome to the Magic Eightball");
+}
 
 
