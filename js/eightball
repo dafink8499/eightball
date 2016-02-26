@@ -3,5 +3,5 @@
 function print(){
   process.stdout.write("Welcome to the Magic Eightball");
 }
-printprint()
+print();
 
