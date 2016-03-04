@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 import skilstak.colors as c
-
 print(c.clear)
 print(c.blue + "Welcome to the Magic Eightball")
-
+answers = [
+        "Yes",
+        "No",
+        "Maybe"
+]
+eastereggs = [
+        ["die","Yes"],
+        ["love","No"]
+]
